@@ -6,3 +6,4 @@ beautifulsoup4
 trafilatura
 googlenewsdecoder
 python-dotenv
+selectolax<1.0
