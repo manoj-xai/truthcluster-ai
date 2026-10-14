@@ -1,0 +1,14 @@
+﻿.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.pyc
+demo_results/
+evaluation_results/
+evaluation_results_test/
+
+# Generated JSON results
+/*.json
+
+pipeline_log.txt

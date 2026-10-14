@@ -1,0 +1,8 @@
+﻿streamlit
+groq
+scikit-learn
+requests
+beautifulsoup4
+trafilatura
+googlenewsdecoder
+python-dotenv
